@@ -1,0 +1,29 @@
+{
+    "name": "greative",
+    "displayName": "Greative",
+    "description": " A VS Code theme.",
+    "version": "1.0.0",
+    "author": "Suman Khadka",
+    "publisher": "Greative",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sumankhdka/greative-vscode-theme"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Greative",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Greative-color-theme.json"
+            }
+        ]
+    }
+    
+}
