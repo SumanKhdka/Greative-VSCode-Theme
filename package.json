@@ -1,8 +1,8 @@
 {
     "name": "greative",
-    "displayName": "Greative",
-    "description": " A VS Code theme.",
-    "version": "1.0.0",
+    "displayName": "Greative Theme",
+    "description": " A Visual Studio Code theme for the Greative Theme out there. The Greative means Great+ Creative work. The Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle.",
+    "version": "1.0.11",
     "author": "Suman Khadka",
     "publisher": "Greative",
     "icon": "icon.png",
